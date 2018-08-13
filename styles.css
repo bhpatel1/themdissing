@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+}
+
+.header-main {
+    color: aliceblue;
+    margin: 25px 50px;
+    font-size: 2rem;
+    text-transform: uppercase;
+    font-weight: normal;
+    letter-spacing: 11px;
+}
