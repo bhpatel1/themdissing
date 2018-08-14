@@ -10,3 +10,18 @@ body {
     font-weight: normal;
     letter-spacing: 11px;
 }
+
+.loader {
+    left: 50%;
+    color: #0c9c73;
+    text-align: left;
+    font-size: 50px;
+    font-family: Roboto Mono;
+    font-weight: 700;
+    text-transform: uppercase;
+    transform: translate(10%, 50%);
+}
+
+.loader:after {
+    content: '_';
+}
